@@ -1,0 +1,10 @@
+{
+    "name": "MAC Faker",
+    "description": "Generates random MAC addresses with both hyphen and colon notation.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "fakeMAC.html",
+        "default_icon": "fakeMAC.png"
+    }
+}
