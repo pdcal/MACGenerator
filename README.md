@@ -1,6 +1,9 @@
 # Fake MAC Addresses - Browser Extension
 A little chrome extension to generate a fake MAC, just when you want one. The MAC addresses aren't very smart, for example there's no support for OUIs or token ring NICs. What you get are twelve random hex digits in the right format. 
 
+#### v1.1
+I've added a convertor to flip MAC addresses from using colons to hyphens. 
+
 ## Installation Instructions (Chrome)
 1. Clone the repo
 2. Open chrome://extensions/
